@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,11 +143,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +191,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
