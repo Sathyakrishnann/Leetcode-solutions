@@ -147,16 +147,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
