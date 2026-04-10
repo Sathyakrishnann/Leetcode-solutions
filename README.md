@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +142,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
