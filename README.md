@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
