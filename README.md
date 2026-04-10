@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
