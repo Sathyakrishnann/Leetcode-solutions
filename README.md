@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
