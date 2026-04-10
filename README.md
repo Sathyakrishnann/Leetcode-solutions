@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
