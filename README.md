@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
