@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
