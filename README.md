@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
