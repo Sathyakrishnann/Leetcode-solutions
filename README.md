@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
