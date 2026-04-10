@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
