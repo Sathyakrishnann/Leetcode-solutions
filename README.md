@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
