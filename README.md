@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
