@@ -34,12 +34,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
