@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
