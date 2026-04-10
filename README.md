@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
