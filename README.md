@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
