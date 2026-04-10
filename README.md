@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,8 +74,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Sathyakrishnann/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
